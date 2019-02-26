@@ -206,3 +206,18 @@ a:hover, a:focus, a:active {
     display: flex;
     flex-direction: column;
 }
+
+.btn {
+    background-color: #02529c;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: #dc1e35;
+    color:white;
+}
