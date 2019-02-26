@@ -197,3 +197,16 @@ a {
 a:hover, a:focus, a:active {
     color: rgba(2,82,156);
 }
+
+.align {
+    display: flex;
+}
+
+.fdp {
+    width: 30%;
+}
+
+.social-icons {
+    display: flex;
+    flex-direction: column;
+}
