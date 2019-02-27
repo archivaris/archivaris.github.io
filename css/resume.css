@@ -121,7 +121,7 @@ p.lead {
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2);
+        border: 0.5rem solid rgba(2, 82, 156);
     }
 
     #sideNav .navbar-collapse {
@@ -219,5 +219,5 @@ a:hover, a:focus, a:active {
 /* Darker background on mouse-over */
 .btn:hover {
     background-color: #dc1e35;
-    color:white;
+    color: white;
 }
